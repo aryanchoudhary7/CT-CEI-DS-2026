@@ -1,5 +1,5 @@
-# CELEBAL EXCELLENCE INTERNSHIP
-# Data Science Internship
+# CELEBAL EXCELLENCE INTERNSHIP 2026
+# Domain: Data Science 
 
 ## Internship Details
 
