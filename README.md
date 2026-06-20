@@ -1,6 +1,12 @@
-# CT-CEI-DS-2026
+# CELEBAL EXCELLENCE INTERNSHIP
 # Data Science Internship
 
+## Internship Details
+
+* Organization: Celebal Technologies
+* Program: Celebal Excellence Internship (CEI)
+* Domain: Data Science
+* Duration: 15 June 2026 – 15 August 2026
 This repository contains my internship assignments, projects, notebooks, and learning notes completed during my Data Science journey.
 
 ## Tech Stack
