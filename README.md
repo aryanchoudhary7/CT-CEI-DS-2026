@@ -1,5 +1,5 @@
 # CT-CEI-DS-2026
-# Data Science Internship 2026
+# Data Science Internship
 
 This repository contains my internship assignments, projects, notebooks, and learning notes completed during my Data Science journey.
 
