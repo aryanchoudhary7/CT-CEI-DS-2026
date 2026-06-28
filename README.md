@@ -19,24 +19,26 @@ This repository contains my weekly assignments, Jupyter notebooks, datasets, and
 
 ## 📂 Repository Structure
 
+```text
 CT-CEI-DS-2026/
 │
+├── README.md
 ├── Week1/
 │   └── week1_Aryan_Choudhary.ipynb
 │
-├── Week2/
-│   ├── data/
-│   │   └── tesla_deliveries_dataset_2015_2025.csv
-│   └── week2_Aryan_Choudhary.ipynb
-│
-└── README.md
+└── Week2/
+    ├── week2_Aryan_Choudhary.ipynb
+    ├── README.md
+    └── data/
+        └── tesla_deliveries_dataset_2015_2025.csv
+```
 
 ---
 
 ## 📚 Weekly Progress
 
-Week 1:	Foundational Exercises-	Python, NumPy, Pandas, Linear Algebra, Statistics, Probability
-Week 2:	End-to-End ML Pipeline-	Data Preprocessing, EDA, Feature Engineering, Regression, Hyperparameter Tuning, Time Series Forecasting	
+**Week 1:** Python, NumPy, Pandas, Linear Algebra, Statistics, Probability 
+**Week 2:** Data Preprocessing, EDA, Feature Engineering, Linear Regression, Random Forest, GridSearchCV, Time Series Forecasting 
 
 ---
 
