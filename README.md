@@ -28,17 +28,9 @@ CT-CEI-DS-2026/
 │
 └── Week2/
     ├── week2_Aryan_Choudhary.ipynb
-    ├── README.md
     └── data/
         └── tesla_deliveries_dataset_2015_2025.csv
 ```
-
----
-
-## 📚 Weekly Progress
-
-**Week 1:** Python, NumPy, Pandas, Linear Algebra, Statistics, Probability 
-**Week 2:** Data Preprocessing, EDA, Feature Engineering, Linear Regression, Random Forest, GridSearchCV, Time Series Forecasting 
 
 ---
 
